@@ -15,6 +15,7 @@ Clone o projeto para sua máquina,logo, após clonar você pode executá-lo a pa
 ## Uso
 
 Para usar o projeto e ver as diferentes animações do personagem, basta clicar nos botões 1 2 e 3 do teclado.
+Clique ESC para sair
 
 ## Referências e/ou créditos
  Asset cc0 ( Creative Commons Zero ) do site PolyPizza. Autor: PolygonalMind https://poly.pizza/u/Polygonal%20Mind
