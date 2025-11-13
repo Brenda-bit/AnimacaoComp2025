@@ -30,6 +30,10 @@ public class AnimatorSwitcher : MonoBehaviour
         {
             StartCoroutine(PlayThroughIdle("Shakira"));
         }
+        else if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 
     private IEnumerator PlayThroughIdle(string trigger)
